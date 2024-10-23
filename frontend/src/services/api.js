@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5002/api';  // Adjust the port number if necessary to match your backend configuration
+const API_URL = 'https://rule-engine-app.onrender.com/api';  // Adjust the port number if necessary to match your backend configuration
 
 // Create a new rule
 export const createRule = async (ruleData) => {
