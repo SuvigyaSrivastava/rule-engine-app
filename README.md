@@ -58,7 +58,8 @@ rule-engine-app/
 - [MongoDB](https://www.mongodb.com/) (or a hosted MongoDB solution like [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
 - [Git](https://git-scm.com/)
 
-### Step 1: Clone the repository
+### Steps: 
+Clone the repository
 ```   
 git clone https://github.com/<your-username>/rule-engine-app.git
 cd rule-engine-app
